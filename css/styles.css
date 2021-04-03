@@ -129,5 +129,8 @@ a:hover{
     position: static;
     transform: rotate(0);
   }
+    .tincatbrand {
+    text-align: left;
+  }
 }
 
